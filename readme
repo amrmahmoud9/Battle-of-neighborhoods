@@ -1,0 +1,6 @@
+•	This project was about Finding the best place to open a restaurant in Los Angeles for A leading company . An analysis of the neighborhoods in LA will need to be done to find ones that meet the following criteria:
+•Are there enough people in the area to support The branch?
+•It must be within 1 mile of park area / have its own parking.
+•It must be within 5 miles of a cinema .
+•It must be within 5 miles of a Laser Tag place .
+I searched about the geographic locations for the neighborhoods in LA , parking slots and schools , merging all of them then i used clustring to find the best place to open a new branch..
